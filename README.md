@@ -5,6 +5,6 @@
   # Use geodump.py to build where.js which is a list of the addresses' geodata and full location names 
   # Use latlongconvert.py to take that list and print it out in the form to use in the url for markers when making the static map
   # Copy the printed data from latlongconvert.py and paste it into mapmakerlivermore.html between marker color and the API key in order to generate all of the markers for the map
-    # I created the rest of the URL for the map by referencing the documentation on Google Maps API
+  ## I created the rest of the URL for the map by referencing the documentation on Google Maps API
   # Open the mapmakerlivermore.html file and you now have a static map showing all of the addresses from the original list - livermoresales.data
   # The code in the files can be minorly tweaked to reference a different set of initial data, and the URL adjusted (simply changing the center to where you want it to be and pasting in the new marker data) in order to generate a new map
