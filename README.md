@@ -8,3 +8,4 @@
   ## I created the rest of the URL for the map by referencing the documentation on Google Maps API
   # Open the mapmakerlivermore.html file and you now have a static map showing all of the addresses from the original list - livermoresales.data
   # The code in the files can be minorly tweaked to reference a different set of initial data, and the URL adjusted (simply changing the center to where you want it to be and pasting in the new marker data) in order to generate a new map
+# I'm aware there are things I could do to shorten this process, and clean up the code - as I learn more I will revisit this project and make it more streamlined
