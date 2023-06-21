@@ -9,7 +9,7 @@ import sys
 
 #establish API Key and serviceurl. I removed my API key for security - feel free to add your own and test it out
 api_key = True
-api_key = 'AIzaSyCjJfXCh-C-NCzQIdl_ETOaG-YIfCy2STk'
+api_key = '...'
 serviceurl = "https://maps.googleapis.com/maps/api/geocode/json?"
 
 # Additional detail for urllib
